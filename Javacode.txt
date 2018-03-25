@@ -1,11 +1,13 @@
-<pre>
-<code>
-x = 5;
-y = 6;
-z = x + y;
-</code>
-</pre>
+body {
+    background-color: lightblue;
+}
 
-x = 5;
-y = 6;
-z = x + y;
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
